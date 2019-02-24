@@ -1,0 +1,15 @@
+*{
+    font-family: Helvetica, sans-serif;
+}
+
+button{
+    margin: 1rem auto;
+    color: slategray;
+    border: none;
+    color: white;
+    padding: 0.5rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 1.1rem;
+}

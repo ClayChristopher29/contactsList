@@ -1,0 +1,27 @@
+{
+    "users":[
+        {}
+    ],
+    "contacts":[
+    {
+        "id": 1,
+        "name": "Kyle",
+        "phone": "(304)-333-3333",
+        "address":"123 ABC St."
+    },
+    {
+        "id": 2,
+        "name": "Caty",
+        "phone":"(304)-333-2132",
+        "address": "624 Childers Rd"
+
+    },
+    {
+        "id": 3,
+        "name": "Jonas",
+        "phone":"(304)-333-4354",
+        "address": "2132 2nd Ave"
+    }
+]
+
+}

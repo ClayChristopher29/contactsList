@@ -1,0 +1,16 @@
+.card{
+    display: inline-block;
+    margin: 1em;
+    width: 10vw;
+    border: 1px solid gray;
+    padding: 1em;
+
+}
+
+.card h3{
+
+}
+
+.card p{
+
+}

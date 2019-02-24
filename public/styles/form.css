@@ -1,0 +1,26 @@
+.form{
+    width: 25rem;
+    margin: auto;
+    padding: 3rem;
+}
+
+.form h3{
+    text-align: center;
+}
+.form input{
+    border-width: 0 0 0.4px 0;
+    border-color: gray;
+    display: block;
+    line-height: 2rem;
+    width: 20rem;
+    margin: auto;
+}
+
+.form button{
+    width: 20rem;
+    background-color: #4CAF50;
+}
+
+.form button:hover{
+    background-color: #409644;
+}
